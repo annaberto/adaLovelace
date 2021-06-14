@@ -2,6 +2,18 @@
 
 Site criado durante o curso de Eu ProgrAmo.
 
+## O projeto 
+
+ Página web sobre a Ada Lovelace, primeira pessoa a escrever um algoritmo para ser processado por uma máquina na história da computação.
+ 
+<img alt="Site adaLovelace" src="https://github.com/raphaelaberto/adaLovelace/blob/main/img/site1.png">
+
+<img alt="Site adaLovelace 2" src="https://github.com/raphaelaberto/adaLovelace/blob/main/img/site2.png">
+
+<img alt="Site adaLovelace 3" src="https://github.com/raphaelaberto/adaLovelace/blob/main/img/site3.png">
+
+
+
 
 ## Tecnologias utilizadas 
 
